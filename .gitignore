@@ -1,0 +1,12 @@
+# Personal inventory and sales data
+data/
+
+# IntelliJ workspace files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# Compiled Java files
+*.class
+out/
